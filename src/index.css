@@ -1,0 +1,24 @@
+body {
+  background: linear-gradient(
+    90deg,
+    rgba(43, 200, 89, 1) 0%,
+    rgba(38, 167, 201, 1) 100%
+  );
+}
+
+.containers {
+  margin: 135px auto;
+  max-width: 650px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.done {
+  color: rgb(0, 176, 0);
+  text-decoration: line-through;
+}
+
+.hide {
+  display: none !important;
+}
